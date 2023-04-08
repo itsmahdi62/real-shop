@@ -1,0 +1,17 @@
+.one-product{
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+  }
+  .btn-check{
+    border: 10px solid black;
+  }
+  .description {
+    padding: 10px;
+    margin-left: 250px;
+  }
+  .description >*{
+    margin:  50px 5px;
+  }
